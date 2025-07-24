@@ -8,8 +8,8 @@ A simple static clone of the Spotify web interface built using HTML and CSS. Thi
 
 ## 📸 Preview
 
-![Screenshot of the project](./assets/screenshot.png)
-*(Add your own screenshot in the assets folder and rename if needed)*
+![Screenshot of the project](./assets/Screenshot.png)
+*(Add your own screenshot in the assets folder and rename if needed)* 
 
 ---
 
